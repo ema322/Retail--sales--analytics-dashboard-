@@ -175,7 +175,121 @@ adidas-us-interactive-sales-dashboard/
 Update the workbook filename and add a dashboard screenshot if you
 include them in the repository. Do not upload confidential or restricted
 data.
+# Adidas US Interactive Sales Dashboard
 
+An interactive Excel dashboard designed to analyze sales performance, profitability, discounts, products, regions, and sales methods. The project uses Excel data analysis and visualization tools to turn sales data into meaningful business information.
+
+## 📌 Project Overview
+
+The dashboard provides a summarized view of key performance indicators (KPIs) and allows users to explore performance across different regions using interactive filters.
+
+**Objectives:**
+- Analyze total units sold and profit.
+- Compare profit and discounts across regions.
+- Evaluate product-level profitability.
+- Understand the contribution of different sales methods.
+- Track quarterly profit performance.
+- Support data-driven business decisions.
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Data analysis and dashboard development |
+| PivotTables | Summarizing and aggregating sales data |
+| PivotCharts | Visualizing sales and profitability |
+| Slicers | Interactive regional filtering |
+| KPI Cards | Displaying key performance indicators |
+| Data Visualization | Presenting findings clearly |
+
+## 📊 Project Stages
+
+| Stage | Description |
+|---|---|
+| 1. Data Preparation | Review the dataset, identify missing values, and check data consistency. |
+| 2. Data Analysis | Explore sales, profit, discounts, products, regions, and quarters. |
+| 3. PivotTables | Summarize key metrics using appropriate aggregation methods. |
+| 4. Chart Creation | Build charts for sales methods, product profit, regional comparisons, and quarterly trends. |
+| 5. KPI Development | Display units sold, profit, and retailer count. |
+| 6. Dashboard Design | Arrange charts, KPIs, and filters into one dashboard. |
+| 7. Interactivity | Connect regional slicers to relevant PivotTables and charts. |
+| 8. Validation | Check totals, test filters, and verify chart accuracy. |
+
+## 📈 Dashboard Components
+
+| Component | Business Purpose |
+|---|---|
+| Units Sold | Measures total sales volume in units. |
+| Total Profit | Summarizes the profit generated. |
+| Retailer Count | Shows the retailer count based on the chosen counting method. |
+| Sales Methods Chart | Compares Online, Outlet, and Retail channels. |
+| Profit by Product | Highlights differences in product-level profitability. |
+| Profit and Discount by Region | Compares profit and discount values across markets. |
+| Quarterly Profit | Shows changes in profit across quarters. |
+| Region Slicer | Allows users to filter the dashboard by region. |
+
+## 🔍 Key Business Insights
+
+The dashboard is designed to help answer the following business questions. The conclusions should be confirmed against the underlying dataset before being reported as findings.
+
+| Business Question | What to Analyze | Potential Business Value |
+|---|---|---|
+| Which region generates the highest profit? | Compare total profit across regions. | Identify strong markets and opportunities for growth. |
+| Which products are most profitable? | Rank products by total profit. | Support product prioritization and inventory planning. |
+| Which sales method performs best? | Compare sales or profit by channel. | Help optimize sales-channel strategy. |
+| How do discounts compare with profit? | Review regional discount and profit totals. | Investigate discounting practices and profitability. |
+| How does profit change over time? | Compare quarterly profit. | Identify trends and investigate performance changes. |
+| How many units are sold? | Review the units-sold KPI. | Monitor sales volume and business performance. |
+
+## 💡 Recommendations
+
+| Area | Suggested Action |
+|---|---|
+| Regional Performance | Investigate high-performing and low-performing regions to identify successful strategies and improvement opportunities. |
+| Product Profitability | Review the most and least profitable products when planning inventory and promotions. |
+| Discount Strategy | Evaluate whether discounts support profitable sales rather than focusing on discount totals alone. |
+| Sales Channels | Compare channel performance before deciding where to allocate marketing and operational resources. |
+| Quarterly Trends | Investigate significant changes in quarterly profit and plan accordingly. |
+| Dashboard Accuracy | Regularly validate KPIs, filters, and PivotTable calculations. |
+
+## 📋 Data Validation Checklist
+
+- [ ] Check missing values and inconsistent category names.
+- [ ] Review duplicate records where relevant.
+- [ ] Confirm the correct aggregation for each KPI.
+- [ ] Verify whether retailer count represents unique retailers.
+- [ ] Investigate blank product or region categories.
+- [ ] Test each slicer and confirm connected charts update.
+- [ ] Check quarterly sorting and chart labels.
+- [ ] Compare dashboard values with the source data.
+
+## 🚀 How to Use the Dashboard
+
+1. Open the Excel workbook.
+2. Use the region slicer to select a market.
+3. Review the updated KPI cards and charts.
+4. Compare products, sales methods, profit, and discounts.
+5. Clear the filter to return to the overall view.
+
+## 📁 Suggested Repository Structure
+
+```text
+adidas-us-interactive-sales-dashboard/
+├── README.md
+├── Adidas_US_Interactive_Sales_Dashboard.xlsx
+└── images/
+    └── dashboard-preview.png
+```
+
+## 🎯 Project Outcome
+
+This project demonstrates practical Excel skills in data summarization, PivotTables, PivotCharts, KPI reporting, interactive filtering, and dashboard design. It presents sales information in an accessible format to support business analysis and decision-making.
+
+## 👤 Author
+
+**Your Name**
+
+Add your name, project date, dashboard screenshot, and any verified numerical findings before publishing the repository.
 
 
 The final deliverable is an interactive Excel dashboard that organizes
