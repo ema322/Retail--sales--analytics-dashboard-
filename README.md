@@ -22,15 +22,6 @@ review performance across markets and products.
 -   Compare sales methods such as Online, Outlet, and Retail.
 -   Explore quarterly profit trends.
 -   Make the dashboard interactive with region filters.
-  
-
-## Tools Used
-
--   Microsoft Excel
--   PivotTables
--   PivotCharts
--   Slicers / report filters
--   Dashboard layout and KPI cards
 
 ## Project Stages
 
@@ -263,38 +254,16 @@ The dashboard is designed to help answer the following business questions. The c
 - [ ] Check quarterly sorting and chart labels.
 - [ ] Compare dashboard values with the source data.
 
-## 🚀 How to Use the Dashboard
-
-1. Open the Excel workbook.
-2. Use the region slicer to select a market.
-3. Review the updated KPI cards and charts.
-4. Compare products, sales methods, profit, and discounts.
-5. Clear the filter to return to the overall view.
-
-## 📁 Suggested Repository Structure
-
-```text
-adidas-us-interactive-sales-dashboard/
-├── README.md
-├── Adidas_US_Interactive_Sales_Dashboard.xlsx
-└── images/
-    └── dashboard-preview.png
-```
-
 ## 🎯 Project Outcome
 
 This project demonstrates practical Excel skills in data summarization, PivotTables, PivotCharts, KPI reporting, interactive filtering, and dashboard design. It presents sales information in an accessible format to support business analysis and decision-making.
 
 ## 👤 Author
 
-**Your Name**
+**EMMA**
 
-Add your name, project date, dashboard screenshot, and any verified numerical findings before publishing the repository.
+Eman Saleh 
+project date 10/10/2026
 
-
-The final deliverable is an interactive Excel dashboard that organizes
-sales metrics and comparisons in one view. It demonstrates data
-summarization, PivotTables, PivotCharts, KPI reporting, filtering, and
-dashboard design.
 
 
